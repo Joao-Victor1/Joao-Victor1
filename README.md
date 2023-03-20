@@ -15,7 +15,7 @@
 
 >## Languages and Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,php,mysql,git,cpp,python,laravel,vscode,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,php,mysql,git,cpp,python,laravel,cmd,vscode,linux)](https://skillicons.dev)
 
 <br>
 
