@@ -1,16 +1,21 @@
-### Hi there 👋
+## Hello, my name is João victor Lopes Silva !!
 
-<!--
-**Joao-Victor1/Joao-Victor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+>## Welcome to my profile!!
 
-Here are some ideas to get you started:
+- 💻 Actually I'm a Fullstack Web Developer.
+- 📚 I'm studying software development.
+- 💇‍♂️ Pronouns: he/him.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joao-Victor1&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-victor1&show_icons=true&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<br>
+
+>## Languages and Technologies
+
+[![My Skills](https://skillicons.dev/icons?i=html5,css3,js,nodejs,php,mysql,git,cpp,python,pycharm,vscode,linux)(https://skillicons.dev)
+
+<br>
+
