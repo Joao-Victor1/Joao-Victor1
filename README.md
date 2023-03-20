@@ -1,4 +1,4 @@
-## Hello, my name is João victor Lopes Silva !!
+## Hello, my name is João Victor Lopes Silva !!
 
 >## Welcome to my profile!!
 
