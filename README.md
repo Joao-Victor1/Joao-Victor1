@@ -2,7 +2,7 @@
 
 >## Welcome to my profile!!
 
-- 💻 Actually I'm a Fullstack Web Developer.
+- 💻 I'm a Fullstack Web Developer.
 - 📚 I'm studying software development.
 - 💇‍♂️ Pronouns: he/him.
 
