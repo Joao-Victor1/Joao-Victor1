@@ -4,7 +4,7 @@
 
 - 💻 I'm a Fullstack Web Developer.
 - 📚 I'm studying software development.
-- 💇‍♂️ Pronouns: he/him.
+- 💇‍♂️ Pronouns: he/his.
 
 <br>
 
