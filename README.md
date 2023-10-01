@@ -21,6 +21,6 @@
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ericksantos12/ericksantos12/output/github-snake-dark.svg">
-    <img src="https://raw.githubusercontent.com/ericksantos12/ericksantos12/output/github-snake.svg">
+    <img src="https://raw.githubusercontent.com/Joao-Victor1/Joao-Victor1/output/github-snake.svg">
 </picture>
 
